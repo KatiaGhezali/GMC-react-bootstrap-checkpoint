@@ -15,6 +15,6 @@ This project was created as part of a GMC React checkpoint to practice building 
 
 ## Screenshots
 
-![Navbar and heading](shot1.png)
-![Cards](shot2.png)
-![Footer](shot3.png)
+![Navbar and heading](/public/images/shot1.png)
+![Cards](/public/images/shot2.png)
+![Footer](/public/images/shot3.png)
